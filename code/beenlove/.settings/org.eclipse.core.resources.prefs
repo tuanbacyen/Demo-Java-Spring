@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/skay/controller/AniversarryController.java=UTF-8
+encoding//src/main/java/skay/controller/ConverImageController.java=UTF-8
+encoding//src/main/java/skay/controller/EmojiController.java=UTF-8
+encoding//src/main/java/skay/controller/EventController.java=UTF-8
+encoding//src/main/java/skay/controller/GarellyController.java=UTF-8
+encoding//src/main/java/skay/controller/LoginController.java=UTF-8
+encoding//src/main/java/skay/controller/RegisterController.java=UTF-8
+encoding//src/main/java/skay/controller/RequestLoveController.java=UTF-8
+encoding//src/main/java/skay/controller/SearchUserController.java=UTF-8
+encoding//src/main/java/skay/controller/UserController.java=UTF-8
+encoding//src/main/java/skay/model/api_EnumNotification.java=UTF-8
+encoding//src/main/java/skay/service/NotificationService.java=UTF-8
